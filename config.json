@@ -1,0 +1,9 @@
+{
+    "incremental_load_end_ts": "2024-09-06 00:00:00",
+    "incremental_load_start_ts": "2024-09-05 00:00:00",
+    "args": [
+        "case_schema",
+        "createDate,updateDate,closedDate",
+        "https://ecm.comcast.com/api/sampleurl"
+    ]
+}
